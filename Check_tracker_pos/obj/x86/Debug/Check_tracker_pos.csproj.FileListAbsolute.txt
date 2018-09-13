@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\bin\Debug\Check_tracker_pos.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\bin\Debug\Check_tracker_pos.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\obj\x86\Debug\Check_tracker_pos.check_tracker_pos.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\obj\x86\Debug\Check_tracker_pos.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\obj\x86\Debug\Check_tracker_pos.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\Check_tracker_pos\Check_tracker_pos\obj\x86\Debug\Check_tracker_pos.pdb
